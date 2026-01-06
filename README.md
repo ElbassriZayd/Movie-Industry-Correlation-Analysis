@@ -15,3 +15,4 @@ This project explores a dataset of 7,500+ movies to identify which factors (budg
 1. **Data Cleaning:** Handled null values and corrected data types using Pandas.
 2. **Correlation Matrix:** Created a heatmap to visualize relationships between all variables.
 3. **Numerization:** Converted categorical data into codes for deeper statistical analysis.
+<img width="981" height="756" alt="heatmap" src="https://github.com/user-attachments/assets/bdac4350-b1c6-4d6b-b614-b401536bf409" />
